@@ -1,0 +1,6 @@
+name: aiida-mybinder
+channels:
+  - conda-forge
+dependencies:
+  - aiida-core
+  - aiida-core.services
