@@ -1,4 +1,3 @@
-name: aiida-mybinder
 channels:
   - conda-forge
 dependencies:
