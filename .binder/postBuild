@@ -1,4 +1,3 @@
 pip install git+https://github.com/aiidateam/aiida-core.git
 verdi config set warnings.development_version false
 verdi presto
-export RABBITMQ_SERVER_ADDITIONAL_ERL_ARGS="-rabbit consumer_timeout undefined"
