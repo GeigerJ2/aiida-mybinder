@@ -1,3 +1,4 @@
 pip install git+https://github.com/aiidateam/aiida-core.git
 verdi config set warnings.development_version false
 verdi presto
+:w
